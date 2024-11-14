@@ -25,3 +25,21 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+
+
+#APPUNTI
+
+npm install -g @angular/cli : installazione di Angular
+
+npx ng new Birreria : Creazione del progetto di Angular
+
+npx ng serve : Avvio progetto
+
+Angular material UI : Componenti Angular
+
+Navbar : Header : navbar material Footer :
+
+CLI Commands : npx ng g c : come creare un componente
+
+LOG : - Inserito i tag home, header e footer nell app.component.html NON FUNZIONA NIENTE
